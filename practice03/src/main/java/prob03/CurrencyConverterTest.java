@@ -13,4 +13,5 @@ public class CurrencyConverterTest {
 		System.out.println( "백달러는 " + krw + "원 입니다" );
 	}
 
+	
 }
